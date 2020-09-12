@@ -1,0 +1,15 @@
+.login-border {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    margin-left: 45%;
+}
+
+.logo {
+    position: absolute;
+    top:1%;
+}
+
+.login-align {
+    margin-left: 170px;
+}
+

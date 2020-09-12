@@ -1,0 +1,8 @@
+<div>
+  <div>
+  <img class="bg-image" src="assets/key_feature_bg.png">
+  <app-email [email]="email"></app-email>
+  <app-password-child [password]="password"></app-password-child>
+  <app-child (loginEvent)="receiveData($event)"></app-child>
+</div>
+</div>
